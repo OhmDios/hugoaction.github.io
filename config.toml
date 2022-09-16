@@ -1,4 +1,4 @@
-baseURL = 'https://github.com/OhmDios/hugoaction.github.io.git'
+baseURL = 'https://ohmdios.github.io/hugoaction.github.io/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "ananke"
