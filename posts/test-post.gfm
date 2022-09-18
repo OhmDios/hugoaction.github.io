@@ -1,14 +1,3 @@
-var TableAttributeFilter = html.GlobalAttributeFilter.Extend(
-	[]byte("align"),
-	[]byte("bgcolor"),
-	[]byte("border"),
-	[]byte("cellpadding"),
-	[]byte("cellspacing"),
-	[]byte("frame"),
-	[]byte("rules"),
-	[]byte("summary"),
-	[]byte("width"),
-)
 
 :pear:
 
