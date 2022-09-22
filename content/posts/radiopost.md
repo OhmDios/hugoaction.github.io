@@ -2,7 +2,9 @@
 ---
 
 og:audio
+
 HTML:
+
 {{< highlight html >}}
 <div>
   <p>Lorem ipsum.</p>
@@ -10,6 +12,7 @@ HTML:
 {{< /highlight >}}  
 
 JavaScript:
+
 {{< highlight js >}}
 // All highlighting options:
 // https://gohugo.io/content-management/syntax-highlighting/#list-of-chroma-highlighting-languages
